@@ -1,0 +1,34 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# next
+.next/
+out/
+
+# production
+dist/
+build/
+
+# local app/runtime metadata
+.agents/
+.codex/
+
+# env
+.env
+.env*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# os/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# old generated static draft
+index_1.html
