@@ -60,7 +60,7 @@ export function AnalyticsPanel() {
               </span>
               <div>
                 <h3 className="font-display text-xl font-bold text-white">Portfolio Analytics</h3>
-                <p className="font-mono text-xs text-slate-400">rajesh.dev - real-time</p>
+                <p className="font-mono text-xs text-slate-400">rajesh-arumalla.tech - real-time</p>
               </div>
             </div>
             <div className="flex items-center gap-3">
