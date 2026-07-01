@@ -12,6 +12,7 @@ import {
   X,
 } from "lucide-react";
 import { useCallback, useEffect, useMemo, useState } from "react";
+import { profile } from "@/lib/portfolio-data";
 
 type MetricItem = {
   label: string;
@@ -195,7 +196,7 @@ export function AnalyticsPanel() {
                 </span>
                 <div className="min-w-0">
                   <h2 className="truncate font-display text-xl font-bold text-white">Live Analytics</h2>
-                  <p className="truncate font-mono text-xs text-slate-400">rajesh-arumalla.tech - real-time</p>
+                  <p className="truncate font-mono text-xs text-slate-400">{profile.handle} - real-time</p>
                 </div>
               </div>
 

@@ -15,7 +15,7 @@ import {
 
 export const profile = {
   name: "Rajesh Arumalla",
-  handle: "rajesh.dev",
+  handle: "rajesh-arumalla.tech",
   title: "AI/ML Engineer - Software Developer - Automation Engineer",
   location: "Chennai, Tamil Nadu",
   timezone: "GMT+5:30",
